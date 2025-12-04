@@ -1,0 +1,14 @@
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\bin\Debug\net9.0\Semana 4.exe
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\bin\Debug\net9.0\Semana 4.deps.json
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\bin\Debug\net9.0\Semana 4.runtimeconfig.json
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\bin\Debug\net9.0\Semana 4.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\bin\Debug\net9.0\Semana 4.pdb
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\obj\Debug\net9.0\Semana 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\obj\Debug\net9.0\Semana 4.AssemblyInfoInputs.cache
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\obj\Debug\net9.0\Semana 4.AssemblyInfo.cs
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\obj\Debug\net9.0\Semana 4.csproj.CoreCompileInputs.cache
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\obj\Debug\net9.0\Semana 4.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\obj\Debug\net9.0\refint\Semana 4.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\obj\Debug\net9.0\Semana 4.pdb
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\obj\Debug\net9.0\Semana 4.genruntimeconfig.cache
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 4\obj\Debug\net9.0\ref\Semana 4.dll

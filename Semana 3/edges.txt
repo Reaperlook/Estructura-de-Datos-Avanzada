@@ -1,0 +1,12 @@
+Casa Starbucks 2.1
+Casa Universidad 3.8
+Casa Gimnasio 3.3
+Starbucks Universidad 1.4
+Starbucks Plaza 2
+Universidad Gimnasio 1.2
+Universidad Central 2.7
+Plaza Central 1.1
+Plaza Casa 3.6
+Gimnasio Plaza 2.5
+Gimnasio Starbucks 2.2
+Central Casa 4

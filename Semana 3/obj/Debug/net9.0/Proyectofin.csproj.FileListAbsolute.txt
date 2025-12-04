@@ -1,0 +1,28 @@
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\bin\Debug\net9.0\Proyectofin.exe
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\bin\Debug\net9.0\Proyectofin.deps.json
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\bin\Debug\net9.0\Proyectofin.runtimeconfig.json
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\bin\Debug\net9.0\Proyectofin.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\bin\Debug\net9.0\Proyectofin.pdb
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\obj\Debug\net9.0\Proyectofin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\obj\Debug\net9.0\Proyectofin.AssemblyInfoInputs.cache
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\obj\Debug\net9.0\Proyectofin.AssemblyInfo.cs
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\obj\Debug\net9.0\Proyectofin.csproj.CoreCompileInputs.cache
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\obj\Debug\net9.0\Proyectofin.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\obj\Debug\net9.0\refint\Proyectofin.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\obj\Debug\net9.0\Proyectofin.pdb
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\obj\Debug\net9.0\Proyectofin.genruntimeconfig.cache
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Proyectofin\obj\Debug\net9.0\ref\Proyectofin.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\bin\Debug\net9.0\Proyectofin.exe
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\bin\Debug\net9.0\Proyectofin.deps.json
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\bin\Debug\net9.0\Proyectofin.runtimeconfig.json
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\bin\Debug\net9.0\Proyectofin.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\bin\Debug\net9.0\Proyectofin.pdb
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\obj\Debug\net9.0\Proyectofin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\obj\Debug\net9.0\Proyectofin.AssemblyInfoInputs.cache
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\obj\Debug\net9.0\Proyectofin.AssemblyInfo.cs
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\obj\Debug\net9.0\Proyectofin.csproj.CoreCompileInputs.cache
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\obj\Debug\net9.0\Proyectofin.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\obj\Debug\net9.0\refint\Proyectofin.dll
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\obj\Debug\net9.0\Proyectofin.pdb
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\obj\Debug\net9.0\Proyectofin.genruntimeconfig.cache
+C:\Users\reape\Documents\Apuntes Escuela\Quinto semestre\Estructura de datos avanzada\Semana 3\obj\Debug\net9.0\ref\Proyectofin.dll
